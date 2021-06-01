@@ -10,7 +10,7 @@ Usage
 
     $ py-gitignore
 
-This will create in the current directory a ``.gitignore`` file with the content defined in `template.py <py_gitignore/template.py>`_
+This will create in the current directory a ``.gitignore`` file with the content defined in `template.py <https://github.com/bdista/py-gitignore/blob/main/py_gitignore/template.py>`_
 
 TODO
 ----
