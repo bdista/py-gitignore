@@ -1,8 +1,13 @@
 [tool.poetry]
 name = "py-gitignore"
-version = "0.1.1"
+version = "0.1.2"
 description = "cli to add gitignore file"
 authors = ["bdista <bdista@users.noreply.github.com>"]
+license = "MIT"
+readme = "README.rst"
+homepage = "https://github.com/bdista/py-gitignore"
+repository = "https://github.com/bdista/py-gitignore"
+include = ["LICENSE.rst"]
 
 [tool.poetry.scripts]
 py-gitignore = "py_gitignore.py_gitignore:main"
