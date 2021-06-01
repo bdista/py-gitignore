@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "py-gitignore"
-version = "0.1.0"
+version = "0.1.1"
 description = "cli to add gitignore file"
 authors = ["bdista <bdista@users.noreply.github.com>"]
 
